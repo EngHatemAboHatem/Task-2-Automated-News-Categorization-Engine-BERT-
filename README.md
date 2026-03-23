@@ -24,6 +24,8 @@ After evaluating the fine-tuned model on the test split, it achieved solid predi
 
 ## 🚀 Interactive Demo
 The final section of the notebook includes a **Gradio** web application. Once executed, it generates a UI where users can type or paste any news headline and receive an instant category prediction from the trained AI model.
+<img width="1912" height="937" alt="BERT" src="https://github.com/user-attachments/assets/0780f60b-3ec0-4083-8d8e-a9672db05989" />
+
 
 ---
 **Developer:** Hatem  
