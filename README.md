@@ -28,5 +28,12 @@ The final section of the notebook includes a **Gradio** web application. Once ex
 
 
 ---
-**Developer:** Hatem  
+##👤 Author & Organization
+
+Author: Hatem Ali
+
+Student ID: DHC-1079
+
+Organization: DevelopersHub Corporation
+
 **Date:** March 2026
